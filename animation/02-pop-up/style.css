@@ -32,7 +32,7 @@ button {
   border: 1px solid black;
   border-radius: 10px;
   position: fixed;
-  top: 50
+  top: 
   left: 50%;
   transform-origin: center;
   transform: translate(-50%, -50%);
