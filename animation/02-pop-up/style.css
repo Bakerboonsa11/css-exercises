@@ -63,3 +63,23 @@ button {
 }
 .thegold {
 }
+/* what is class based component in react  
+.
+as the same with that  of the funcitional component it is also possible to have class based components in react 
+but first we have import the component class from  a react 
+then the same as the java script class we can define it using the sme syntanx but our class must have to ectend the component class 
+but instead of destructuring the class we can extend it directly throught  React.Componnent
+
+THE USE OF THE CONSTRUCTOR AND THE PROPS 
+
+
+
+
+
+
+
+
+
+
+
+*/
