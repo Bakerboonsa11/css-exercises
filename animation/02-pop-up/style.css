@@ -72,6 +72,11 @@ but instead of destructuring the class we can extend it directly throught  React
 
 THE USE OF THE CONSTRUCTOR AND THE PROPS 
 
+the props the passed in the the component is get passed to the class constructor 
+a this and super keywords allow as to really use props in the contect of the component 
+in java script when u use the extend keayword and extend the class the this keayword do not avaliable for the subclass this means using the this keayword in the 
+subclass constructor throw a reference error so this means we have to call the suer keayword
+
 
 
 
