@@ -79,6 +79,13 @@ subclass constructor throw a reference error so this means we have to call the s
 
 if the component has no props its ok to have the constructor without the argument and the super invoke too 
 
+the point here is that how we return a jsx from the component . this is happen by using a render funcition and returning a jsx from thaat funcition 
+
+and we can provide the propps to our jsx through the this keayword like this .props .name 
+
+HOW TO USE STATE AND MANAGE CONTEXT 
+
+
 
 
 
