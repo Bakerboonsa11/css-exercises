@@ -77,6 +77,7 @@ a this and super keywords allow as to really use props in the contect of the com
 in java script when u use the extend keayword and extend the class the this keayword do not avaliable for the subclass this means using the this keayword in the 
 subclass constructor throw a reference error so this means we have to call the suer keayword
 
+if the component has no props its ok to have the constructor without the argument and the super invoke too 
 
 
 
